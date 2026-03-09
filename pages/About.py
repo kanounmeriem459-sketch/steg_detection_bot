@@ -17,7 +17,7 @@ background-color:darkcyan;
 
 /* Bannière logo en haut */
 .banner img{
-width:100%;
+width:70%;
 height:180px;
 object-fit:cover;
 border-radius:8px;
